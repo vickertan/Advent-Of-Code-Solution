@@ -1,4 +1,4 @@
-﻿string[] calibrationDoc = File.ReadAllLines(".\\calibrationDoc.txt");
+﻿string[] calibrationDoc = File.ReadAllLines("..\\calibrationDoc.txt");
 
 int totalSum = 0;
 
